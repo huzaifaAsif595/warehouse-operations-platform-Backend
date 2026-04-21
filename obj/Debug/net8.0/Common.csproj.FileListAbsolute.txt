@@ -1,0 +1,16 @@
+E:\Office_work\PickProApi\Common\bin\Debug\net8.0\PeakLogix.PickProApi.Common.deps.json
+E:\Office_work\PickProApi\Common\bin\Debug\net8.0\PeakLogix.PickProApi.Common.dll
+E:\Office_work\PickProApi\Common\bin\Debug\net8.0\PeakLogix.PickProApi.Common.pdb
+E:\Office_work\PickProApi\Common\bin\Debug\net8.0\PeakLogix.EntityFramework.dll
+E:\Office_work\PickProApi\Common\bin\Debug\net8.0\PeakLogix.EntityFramework.pdb
+E:\Office_work\PickProApi\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+E:\Office_work\PickProApi\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Office_work\PickProApi\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+E:\Office_work\PickProApi\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+E:\Office_work\PickProApi\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+E:\Office_work\PickProApi\Common\obj\Debug\net8.0\Common.sourcelink.json
+E:\Office_work\PickProApi\Common\obj\Debug\net8.0\Common.csproj.Up2Date
+E:\Office_work\PickProApi\Common\obj\Debug\net8.0\PeakLogix.PickProApi.Common.dll
+E:\Office_work\PickProApi\Common\obj\Debug\net8.0\refint\PeakLogix.PickProApi.Common.dll
+E:\Office_work\PickProApi\Common\obj\Debug\net8.0\PeakLogix.PickProApi.Common.pdb
+E:\Office_work\PickProApi\Common\obj\Debug\net8.0\ref\PeakLogix.PickProApi.Common.dll
